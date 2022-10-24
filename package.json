@@ -1,7 +1,7 @@
 {
-  "name": "@denredsky/eslint-config",
-  "main": "src/index.js",
-  "version": "1.0.0",
+  "name": "eslint-config-example",
+  "main": "index.js",
+  "version": "1.1.0",
   "description": "example of reusable eslint-config",
   "author": "Krasnovskiy Denis",
   "license": "MIT",
@@ -11,7 +11,7 @@
     "example"
   ],
   "files": [
-    "src"
+    "index.js"
   ],
   "repository": "https://github.com/DenRedsky/example-eslint-config.git",
   "homepage": "https://github.com/DenRedsky/example-eslint-config",
